@@ -45,7 +45,7 @@ checkBtn.addEventListener("click", e =>{
       getCaptcha();
     }, 2000);
 
-    window.location.assign("https://warm-pie-593d92.netlify.app/");
+    window.location.assign("https://animated-frangipane-070b4f.netlify.app/");
   }else{
     statusTxt.style.color = "#ff0000";
     statusTxt.innerText = "Did not match. Please try again!";
